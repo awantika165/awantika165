@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Awantika Awasthi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/female-programmer-doing-her-job-office_5483063.htm#query=coding%20gif&position=3&from_view=keyword&track=ais_user&uuid=593f69a5-9e84-475d-a692-c288a6bfcfd2">
+
 
 - 📫 How to reach me **awantikaawasthi016@gmail.com**
 
